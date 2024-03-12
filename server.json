@@ -1,0 +1,748 @@
+{
+  "tags": [
+    {
+      "title": "Angular",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 176
+    },
+    {
+      "title": "React Native",
+      "amountOfVideos": 204
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 123
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 97
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 156
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 64
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "ASP.NET",
+      "amountOfVideos": 102
+    },
+    {
+      "title": "Ember.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Meteor.js",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Backbone.js",
+      "amountOfVideos": 53
+    },
+    {
+      "title": "jQuery",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 198
+    },
+    {
+      "title": "Tailwind CSS",
+      "amountOfVideos": 111
+    },
+    {
+      "title": "Material-UI",
+      "amountOfVideos": 143
+    },
+    {
+      "title": "Ant Design",
+      "amountOfVideos": 167
+    },
+    {
+      "title": "Foundation",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bulma",
+      "amountOfVideos": 87
+    },
+    {
+      "title": "UIKit",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "Semantic UI",
+      "amountOfVideos": 69
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "SwiftUI",
+      "amountOfVideos": 109
+    },
+    {
+      "title": "Xamarin",
+      "amountOfVideos": 81
+    },
+    {
+      "title": "Ionic",
+      "amountOfVideos": 97
+    },
+    {
+      "title": "Cordova",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "PhoneGap",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "NativeScript",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "AngularJS",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "Web Components",
+      "amountOfVideos": 67
+    },
+    {
+      "title": "Next.js",
+      "amountOfVideos": 96
+    },
+    {
+      "title": "Nuxt.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Gatsby",
+      "amountOfVideos": 77
+    },
+    {
+      "title": "Hugo",
+      "amountOfVideos": 83
+    },
+    {
+      "title": "Jekyll",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Hexo",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Docusaurus",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Sphinx",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "GitBook",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "MkDocs",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "VuePress",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "DocFX",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Gridsome",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Fastify",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Feathers.js",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "LoopBack",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Socket.IO",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Apollo Server",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Hasura",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Prisma",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "TypeORM",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "Mongoose",
+      "amountOfVideos": 73
+    },
+    {
+      "title": "Sequelize",
+      "amountOfVideos": 59
+    },
+    {
+      "title": "Knex.js",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Bookshelf.js",
+      "amountOfVideos": 17
+    },
+    {
+      "title": "Waterline",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "LoopBack",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Hapi.js",
+      "amountOfVideos": 66
+    },
+    {
+      "title": "Koa",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Sails.js",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "AdonisJS",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Meteor",
+      "amountOfVideos": 61
+    },
+    {
+      "title": "Feathers.js",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Socket.IO",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "Next.js",
+      "amountOfVideos": 96
+    },
+    {
+      "title": "Nuxt.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Gatsby",
+      "amountOfVideos": 77
+    },
+    {
+      "title": "Hugo",
+      "amountOfVideos": 83
+    },
+    {
+      "title": "Jekyll",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Hexo",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Docusaurus",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Sphinx",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "GitBook",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "MkDocs",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "VuePress",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "DocFX",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Gridsome",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Fastify",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Feathers.js",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "LoopBack",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Socket.IO",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Apollo Server",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 176
+    },
+    {
+      "title": "React Native",
+      "amountOfVideos": 204
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 123
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 97
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 156
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 64
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "ASP.NET",
+      "amountOfVideos": 102
+    },
+    {
+      "title": "Ember.js",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Meteor.js",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "Backbone.js",
+      "amountOfVideos": 53
+    },
+    {
+      "title": "jQuery",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 198
+    },
+    {
+      "title": "Tailwind CSS",
+      "amountOfVideos": 111
+    },
+    {
+      "title": "Material-UI",
+      "amountOfVideos": 143
+    },
+    {
+      "title": "Ant Design",
+      "amountOfVideos": 167
+    },
+    {
+      "title": "Foundation",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Bulma",
+      "amountOfVideos": 87
+    },
+    {
+      "title": "UIKit",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "Semantic UI",
+      "amountOfVideos": 69
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "SwiftUI",
+      "amountOfVideos": 109
+    },
+    {
+      "title": "Xamarin",
+      "amountOfVideos": 81
+    },
+    {
+      "title": "Ionic",
+      "amountOfVideos": 97
+    },
+    {
+      "title": "Cordova",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "PhoneGap",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "NativeScript",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "AngularJS",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "Web Components",
+      "amountOfVideos": 67
+    },
+    {
+      "title": "Next.js",
+      "amountOfVideos": 96
+    },
+    {
+      "title": "Nuxt.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Gatsby",
+      "amountOfVideos": 77
+    },
+    {
+      "title": "Hugo",
+      "amountOfVideos": 83
+    },
+    {
+      "title": "Jekyll",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Hexo",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Docusaurus",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Sphinx",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "GitBook",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "MkDocs",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "VuePress",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "DocFX",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Gridsome",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Fastify",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Feathers.js",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "LoopBack",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Socket.IO",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Apollo Server",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Hasura",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Prisma",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "TypeORM",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "Mongoose",
+      "amountOfVideos": 73
+    },
+    {
+      "title": "Sequelize",
+      "amountOfVideos": 59
+    },
+    {
+      "title": "Knex.js",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Bookshelf.js",
+      "amountOfVideos": 17
+    },
+    {
+      "title": "Waterline",
+      "amountOfVideos": 22
+    },
+    {
+      "title": "LoopBack",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Hapi.js",
+      "amountOfVideos": 66
+    },
+    {
+      "title": "Koa",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Sails.js",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "AdonisJS",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Meteor",
+      "amountOfVideos": 61
+    },
+    {
+      "title": "Feathers.js",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Socket.IO",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "Next.js",
+      "amountOfVideos": 96
+    },
+    {
+      "title": "Nuxt.js",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Gatsby",
+      "amountOfVideos": 77
+    },
+    {
+      "title": "Hugo",
+      "amountOfVideos": 83
+    },
+    {
+      "title": "Jekyll",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Hexo",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Docusaurus",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Sphinx",
+      "amountOfVideos": 25
+    },
+    {
+      "title": "GitBook",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "MkDocs",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "VuePress",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "DocFX",
+      "amountOfVideos": 30
+    },
+    {
+      "title": "Gridsome",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Fastify",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "NestJS",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Feathers.js",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "LoopBack",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Socket.IO",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 90
+    },
+    {
+      "title": "Apollo Server",
+      "amountOfVideos": 55
+    }
+  ]
+}
